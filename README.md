@@ -1,8 +1,6 @@
 # Practica 1
 
-**Autores** Ana Zabalo, Ana Salmerón 
 
-**Correo electrónico:** ana.zabalo@cuenf.edu , ana.salmeron@cunef.edu
 
 **Directorio GitHub:** https://github.com/ana282001/practica1
                         https://github.com/anazb001/practica2.git
